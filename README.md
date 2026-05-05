@@ -14,7 +14,3 @@ This is a personal learning project, but suggestions and feedback are welcome.
 ## 🙌 Acknowledgments
 
 Thanks to the developer community and all the resources that help beginners get started.
-
----
-
-⭐ If you find this helpful or want to follow my journey, feel free to star the repository!
