@@ -1,29 +1,45 @@
-🚀 ApnaCollegeDemo
+<div class="container">
+        <h1>🚀 ApnaCollegeDemo</h1>
 
-Welcome to ApnaCollegeDemo — my second day on GitHub and the start of my coding journey.
+        <p>
+            <strong>ApnaCollegeDemo</strong> is a foundational repository documenting my early journey into software development and version control using Git and GitHub.
+        </p>
 
-This repository represents my first steps into version control, collaboration, and building real-world development habits.
+        <h2>📌 Overview</h2>
+        <p>
+            This repository serves as a structured space where I practice core development concepts, experiment with code, and build a strong understanding of Git-based workflows.
+            It reflects my commitment to learning industry-relevant tools and maintaining clean, organized project practices from the beginning.
+        </p>
 
-📌 About
+        <h2>🎯 Objectives</h2>
+        <ul>
+            <li>Develop proficiency in Git and GitHub workflows</li>
+            <li>Strengthen programming fundamentals and problem-solving skills</li>
+            <li>Follow best practices for code organization and documentation</li>
+            <li>Build a consistent and trackable learning habit</li>
+        </ul>
 
-I created this project to practice and understand how GitHub works, including managing repositories, tracking changes, and organizing code effectively.
+        <h2>🛠️ Skills in Progress</h2>
+        <ul>
+            <li>Version Control: Git, GitHub</li>
+            <li>Programming: Learning and improving daily</li>
+            <li>Development Practices: Documentation, clean structure, incremental improvement</li>
+        </ul>
 
-🎯 Goals
-Learn Git and GitHub workflows (commits, branches, pull requests)
-Build consistency in coding practice
-Improve problem-solving and development skills
-Start contributing to real-world projects in the future
-🛠️ Current Status
+        <h2>📈 Project Status</h2>
+        <div class="status">Early Development Stage</div>
 
-🚧 Beginner stage — actively learning and experimenting every day.
+        <h2>🤝 Contributions</h2>
+        <p>
+            While this is primarily a personal learning repository, constructive feedback, suggestions, and best-practice recommendations are welcome.
+        </p>
 
-🤝 Contributing
+        <h2>🙌 Acknowledgments</h2>
+        <p>
+            Thanks to the developer community, educators, and open-source resources that support beginners in building strong technical foundations.
+        </p>
 
-This is primarily a personal learning repository, but:
-
-Suggestions are welcome
-Feedback is appreciated
-Beginner-friendly guidance is highly valuable
-🙌 Acknowledgments
-
-Grateful to all the educators, communities, and open resources that make learning development accessible to beginners.
+        <footer>
+            © 2026 ApnaCollegeDemo | Learning GitHub Step by Step
+        </footer>
+    </div>
