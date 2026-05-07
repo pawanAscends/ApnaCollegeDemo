@@ -1,45 +1,66 @@
-<div class="container">
-        <h1>🚀 ApnaCollegeDemo</h1>
+# 🚀 ApnaCollegeDemo
 
-        <p>
-            <strong>ApnaCollegeDemo</strong> is a foundational repository documenting my early journey into software development and version control using Git and GitHub.
-        </p>
+## 📌 Overview
 
-        <h2>📌 Overview</h2>
-        <p>
-            This repository serves as a structured space where I practice core development concepts, experiment with code, and build a strong understanding of Git-based workflows.
-            It reflects my commitment to learning industry-relevant tools and maintaining clean, organized project practices from the beginning.
-        </p>
+**ApnaCollegeDemo** is a beginner-friendly repository created to document my learning journey in software development, Git, and GitHub.
 
-        <h2>🎯 Objectives</h2>
-        <ul>
-            <li>Develop proficiency in Git and GitHub workflows</li>
-            <li>Strengthen programming fundamentals and problem-solving skills</li>
-            <li>Follow best practices for code organization and documentation</li>
-            <li>Build a consistent and trackable learning habit</li>
-        </ul>
+This project represents my early steps toward building strong programming fundamentals, understanding version control systems, and following professional development practices.
 
-        <h2>🛠️ Skills in Progress</h2>
-        <ul>
-            <li>Version Control: Git, GitHub</li>
-            <li>Programming: Learning and improving daily</li>
-            <li>Development Practices: Documentation, clean structure, incremental improvement</li>
-        </ul>
+---
 
-        <h2>📈 Project Status</h2>
-        <div class="status">Early Development Stage</div>
+## 🎯 Objectives
 
-        <h2>🤝 Contributions</h2>
-        <p>
-            While this is primarily a personal learning repository, constructive feedback, suggestions, and best-practice recommendations are welcome.
-        </p>
+- Learn and practice Git & GitHub workflows
+- Improve coding and problem-solving skills
+- Understand repository management and version control
+- Build consistency through regular development practice
+- Create projects that demonstrate growth and learning
 
-        <h2>🙌 Acknowledgments</h2>
-        <p>
-            Thanks to the developer community, educators, and open-source resources that support beginners in building strong technical foundations.
-        </p>
+---
 
-        <footer>
-            © 2026 ApnaCollegeDemo | Learning GitHub Step by Step
-        </footer>
-    </div>
+## 🛠️ Skills & Technologies
+
+- Git
+- GitHub
+- VS Code
+- HTML (Learning)
+- Programming Fundamentals
+
+---
+
+## 📈 Current Status
+
+🚧 Currently in the learning and development phase.
+
+This repository will continue to evolve as I explore new technologies, improve my coding skills, and work on more projects.
+
+---
+
+## 📂 Repository Purpose
+
+This repository is used for:
+- Practice projects
+- GitHub workflow learning
+- Code experimentation
+- Documentation practice
+- Tracking development progress
+
+---
+
+## 🤝 Contributions
+
+This is primarily a personal learning repository, but constructive feedback and suggestions are always appreciated.
+
+---
+
+## 🙌 Acknowledgments
+
+Special thanks to the developer community, educators, and open-source resources that help beginners learn and grow in technology.
+
+---
+
+## 📧 Connect
+
+I’m continuously learning and improving my development skills every day.
+
+⭐ Thank you for visiting this repository.
